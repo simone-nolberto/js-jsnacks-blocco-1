@@ -13,7 +13,6 @@ for (let i = 0; i < gatsbyPartyInvite.length; i++) {
         accessControl = true;
     }
 
-    break;
     
 }
 
