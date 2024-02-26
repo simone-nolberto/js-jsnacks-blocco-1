@@ -32,3 +32,5 @@ while (i < 6) {
 }
 
 console.log(oddNum);
+
+// funziona!!!
