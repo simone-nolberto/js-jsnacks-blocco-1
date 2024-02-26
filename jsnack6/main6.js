@@ -16,19 +16,29 @@ let num = [];
 
 
 
-i = 0;
+// i = 0;
 
-while (i < 10) {
-    const request = Number(prompt('Inserisci un numero'));
+// while (i < 10) {
+//     const request = Number(prompt('Inserisci un numero'));
     
-    num.push(request)
+//     num.push(request)
 
-    i++
-}
+//     i++
+// };
 
-console.log(num);
+// console.log(num);
 
-const control = Number(prompt("Specifica un numero da 1 a 10"));
+// const control = Number(prompt("Specifica un numero da 1 a 10"));
 
 
-console.log(Math.pow(num[control],3));
+// console.log(Math.pow(num[control],3));
+
+
+// 
+
+// let n = Number(prompt("inserisci un numero"));
+
+// for (let i = 0; i < n; i++) {
+//     console.log(i ** n);
+    
+// }
